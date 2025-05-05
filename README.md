@@ -21,3 +21,7 @@ What we can learn :
 1. Gen AI, CV, DL
 2. GAN, CNN, RNN
 3. maybe NLP
+
+
+# Second Phase:
+ working with Vision Transformers(ViT) and try to e=increase the accuracy
